@@ -151,8 +151,4 @@ $(function() {
         gutter: 30,
         selector: '.panel'
     });
-
-    $('form').input({
-        native: true
-    });
 });
